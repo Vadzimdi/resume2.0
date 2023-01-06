@@ -60,10 +60,13 @@ color: darkorange;
 }
 
 .btn {
-padding: 8px 20px;
+padding: 6px 17px;
 cursor: pointer;
-border-radius: 3px;
+border-radius: 20px;
 font-family: inherit;
+background: #0047AB;
+color: white;
+border: none;
 
 
 }
