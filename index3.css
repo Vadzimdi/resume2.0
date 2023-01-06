@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&family=Rowdies&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&family=Roboto+Condensed:ital,wght@1,300&family=Rowdies&display=swap');
+body {
+    font-size: 17px;
+    font-family: Poppins;
+    font-weight: normal;
+    line-height: 23px;
+    background: #E5E5E5;
+
+}
+.header {
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.card-1 {
+  background: #58C6C7;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.card-2 {
+background: #63C598;
+color: white;
+border-radius: 20px;
+padding: 15px 20px;
+  margin-bottom: 20px;
+
+}
+.card-3 {
+background: #AED78D;
+color: white;
+border-radius: 20px;
+padding: 15px 20px;
+  margin-bottom: 20px;
+
+}
+.container {
+margin: auto;
+max-width: 1000px;
+padding-top: 30px;
+}
+
+.avatar {
+width: 400px;
+border-radius: 10px;
+box-shadow: 8px 8px 14px rgba(0, 0, 0, 0.25)
+
+}
+
+a {
+color: darkblue;
+text-decoration: none;
+}
+
+a:hover {
+color: darkorange;
+}
+
+.btn {
+padding: 8px 20px;
+cursor: pointer;
+border-radius: 3px;
+font-family: inherit;
+
+
+}
+.btn:hover {
+opacity: 0.8;
+
+}
+.name {
+padding: 5px 20px;
+border-radius: 5px;
+margin: 3px;
+
+}
+.mes {
+border-radius: 5px;
+}
